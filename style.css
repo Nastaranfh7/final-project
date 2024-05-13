@@ -134,10 +134,16 @@ header:hover{background-color: rgb(255, 255, 255);}
     font: size 1.8em;
     font-weight: bold;
     margin-top: 30px;
+    
   }
 
-  .container{
+  .containers{
     display: flex;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 0;
+  padding: 20px;
   }
 
   .col{
